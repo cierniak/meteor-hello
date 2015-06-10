@@ -21,11 +21,13 @@ The Cloud9 IDE team
 
 Meteor documentation can be found at http://docs.meteor.com/
 
-## Polymer
+## Dragons
 
-Trying Meteor package: https://atmospherejs.com/boxxa/polymer
+Trying recommended Bootstrap package: https://atmospherejs.com/twbs/bootstrap
+
+Should also consider https://atmospherejs.com/ian/accounts-ui-bootstrap-3
 
 ```
-meteor add boxxa:polymer
-meteor add boxxa:polymer-elements
+meteor add underscore
+meteor add twbs:bootstrap
 ```

@@ -1,7 +1,13 @@
 <template name="kindItem">
  <div class="kind">
  <div class="kind-content">
- <h3>{{name}}</h3>
- </div>
+ <h3>{{name}}
+ <span>
+ {{#each elements}}
+ {{this}}
+ {{/each}}
+ </span>
+ </h3>
+</div>
  </div>
 </template>
