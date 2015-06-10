@@ -20,3 +20,12 @@ The Cloud9 IDE team
 ## Support & Documentation
 
 Meteor documentation can be found at http://docs.meteor.com/
+
+## Polymer
+
+Trying Meteor package: https://atmospherejs.com/boxxa/polymer
+
+```
+meteor add boxxa:polymer
+meteor add boxxa:polymer-elements
+```
